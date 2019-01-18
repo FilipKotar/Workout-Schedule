@@ -1,0 +1,33 @@
+Created on: 2017-10-19 01:13:03.797851
+---------------------------------------------------------------------------------------
+Day 1
+Push
+Deltoid Rows: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Face Pulls: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Flat Dumbbell Press: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Incline Dumbbell Press: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Tricep Rope Extensions: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+---------------------------------------------------------------------------------------
+Day 2
+Pull
+Deltoid Rows: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Face Pulls: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Dumbbell Bent Over Rows: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Barbell Bent Over Rows: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Bicep Cable Curls: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+---------------------------------------------------------------------------------------
+Day 3
+Legs
+Dumbbell Lunges: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Kettle Squat: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Weighted Calf Raises: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+---------------------------------------------------------------------------------------
+Day 4
+Arms & Core
+Tricep Rope Extensions: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Bicep Cable Curls: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Weighted Crunches: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Reverse Crunches: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+Weighted Decline Crunches: 3 sets of 10 reps with tempo: [2, 0, 4, 0] and rest for 45 seconds
+---------------------------------------------------------------------------------------
+The total amount of reps: 180
